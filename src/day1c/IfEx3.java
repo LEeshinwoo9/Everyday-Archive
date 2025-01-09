@@ -1,5 +1,5 @@
 
-package test;
+package day1c;
 
     public class IfEx3 {
 
